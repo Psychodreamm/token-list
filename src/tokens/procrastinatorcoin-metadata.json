@@ -1,0 +1,13 @@
+{
+  "chainId": 101,
+  "address": "78U8zUTZAjQ5XnDDZQd4z15jRFCmPDN8MXK4fSk5nAX1",
+  "symbol": "WAIT",
+  "name": "ProcrastinatorCoin",
+  "decimals": 9,
+  "logoURI": "https://psychodreamm.github.io/procrastinatorcoin-website/about-me.jpg",
+  "tags": ["meme", "crypto", "fun"],
+  "extensions": {
+    "website": "URL_TO_YOUR_WEBSITE",
+    "twitter": "URL_TO_YOUR_TWITTER"
+  }
+}
